@@ -13,5 +13,7 @@ public class Ex7 {
 
         System.out.printf("O perimetro do retangula é %.2fcm%n", formulaPerimetro);
         System.out.println("A formula utilizada foi (base + altura) * 2");
+
+        sc.close{};
     }
 }
